@@ -26,7 +26,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabal19&show_icons=true&locale=en&layout=compact&v=2" alt="prabal19" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=prabal19&show_icons=true&locale=en&v=2" alt="prabal19" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=prabal19&show_icons=true&locale=en&v=3" alt="prabal19" />
 </p>
 
 
